@@ -1,6 +1,6 @@
 ## read params
 ## process
-## return the dataframe (By copying data tp raw dir and reading)
+## return the dataframe
 
 import os
 import yaml
